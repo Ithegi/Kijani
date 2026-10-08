@@ -14,7 +14,7 @@ This reference guide documents the physical layout, connector labels, and pin nu
 
 Below is an overview of the main components and pin connections on the Kijani board.
 
-![board image](../../../../hardware/v3/mootbotv3header.png)
+![board image](../../../hardware/v3/mootbotv3header.png)
 
 ---
 
