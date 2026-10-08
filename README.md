@@ -1,6 +1,8 @@
 # Kijani Battle Bot Platform
 
-![Kijani Logo](https://github.com/user-attachments/assets/768132c3-deda-4b90-bbd4-2619247bbfce)
+![Kijani Logo](images/portratclose.png)
+
+For more info please see the documentation, https://ithegi.github.io/Kijani/
 
 An open-source ESP32-based battle robot platform designed for affordable combat robots, educational robotics, and custom remote-controlled projects.
 
@@ -14,7 +16,7 @@ Built for:
 
 # Order a bot?
 
-Do you want a bot? If there are enough people in your area I will organise a big buy and ship to you. Please fill out the google form so we know what interest is in what areas. We will look at the results in august and contact everyone who filled in the form as well as possibly make an order form here. We estimate the full kit will be around R600 for a bot with assembled pcb, battery n20 motors and servo
+Do you want a bot? If there are enough people in your area I will organise a big buy and ship to you. Please fill out the google form so we know what interest is in what areas. We estimate the full kit will be around R600 for a bot with assembled pcb, battery n20 motors and servo. Shipping to major centers in South Africa are R110. If you are building your own from the sourvces please let us know if you are selling them so We can possibly put it here.
 
 https://docs.google.com/forms/d/e/1FAIpQLSefcmKqDehQRFsC9WDCJS6LWhJCRrktLrYrf-59QBeeA0L29w/viewform?usp=publish-editor
 
@@ -24,10 +26,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSefcmKqDehQRFsC9WDCJS6LWhJCRrktLrYrf-59
 # 📸 Project Photos
 
 ## PCB Front
-![PCB Front](https://github.com/user-attachments/assets/453e342c-25a9-443a-96cb-e40b1570fd1f)
+![PCB Front](hardware/v3/mootbotv3explination.png)
 
 ## PCB Back
-![PCB Back](https://github.com/user-attachments/assets/e4c47851-737e-46eb-8aa4-cb9382c4f4c0)
+![PCB Back](hardware/v3/mootbotv3header.png)
 
 ---
 
@@ -337,13 +339,13 @@ Inspired by:
 # 🔗 Links
 
 ## PCB Files
-[PLACEHOLDER_EASYEDA_LINK]
+https://oshwlab.com/ithegi/project_apcllstg
 
 ## Rover moot
 https://www.scouts.org.za/2africascoutmoot/
 
 ## Videos
-[PLACEHOLDER_YOUTUBE]
+[Kijani promo video](https://youtu.be/JGaNwmXrSec)
 
 ---
 
