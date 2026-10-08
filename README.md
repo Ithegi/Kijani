@@ -344,7 +344,7 @@ https://oshwlab.com/ithegi/project_apcllstg
 https://www.scouts.org.za/2africascoutmoot/
 
 ## Videos
-[PLACEHOLDER_YOUTUBE]
+[Kijani promo video](https://youtu.be/JGaNwmXrSec)
 
 ---
 
